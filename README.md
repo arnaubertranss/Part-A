@@ -4,4 +4,4 @@ Aquesta activitat és una introducció al control de versions de programari util
 
 Cal recordar que si es modifica alguna cosa del repositori remot (upstream) amb un commit i el baixem, es fa un merge i es fusiona amb el codi que tenim a baix (downstream) i que no hem modificat, possiblement hi haurà conflictes en la fusió i s’hagi de fer manualment.
 
-Modificació Part A
+ARNAU BERTRANS MAS
